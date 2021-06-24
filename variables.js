@@ -9,3 +9,4 @@ total = price * quantity;
 
 var el = document.getElementById('cost');
 el.textContent = '$' + total;
+// This is the comment to update the latest version, work with variables.//
